@@ -1,17 +1,32 @@
-# Strategic Digital Transformation for Global Growth
+Prox Digital Agency: London’s Creative & Digital Growth Partner
+Prox Digital Agency – Pros for Growth is a London-based creative and digital growth partner for brands ready to scale with clarity. Founded by CEO Ali Zafar Azad, we provide the direction and strategy businesses need to move beyond simple execution toward measurable success.
 
-In the modern business landscape, staying ahead requires a robust digital foundation. At [Prox Digital Agency](https://proxdigitalagency.co.uk/), we specialize in bridging the gap between technology and business goals.
+With 10+ years of experience and 500+ projects delivered worldwide, we combine strategy, design, marketing, and technology to build high-performance digital systems across every customer touchpoint. Serving London & UK-wide—from Shoreditch to Soho—we deliver end-to-end digital solutions that drive ROI.
 
-### Our Core Expertise:
-* **360° Digital Transformation:** Streamlining operations for maximum ROI.
-* **Web & App Development:** High-performance solutions built for scalability.
-* **Technical SEO & GEO:** Enhancing visibility in the era of AI search.
-* **Creative Branding:** Building identities that resonate globally.
+Our Core Services (London):
+Website Design & Development: UX-led, conversion-focused websites.
 
-### Why Digital Excellence Matters?
-Businesses today face challenges like slow performance and fragmented branding. Our strategy-first approach ensures that every digital asset performs visually and commercially.
+Mobile App Design & Development: iOS, Android, and cross-platform solutions.
 
-**Contact Us:**
-* **Website:** [https://proxdigitalagency.co.uk/](https://proxdigitalagency.co.uk/)
-* **Location:** 85 Great Portland Street, London, W1W 7LT
-* **Phone:** +44 207 0393 869
+Digital Marketing Services: PPC, social media, and email marketing.
+
+Search Engine Optimization (SEO): Local and national search visibility.
+
+Generative Engine Optimization (GEO): AI-search ready content and strategy.
+
+Digital Transformation Consultancy: Process, technology, and culture change.
+
+MVP & Product Development: Launch faster and iterate smarter.
+
+Creative Branding & Identity: Distinctive and scalable brand systems.
+
+Why Partner with Prox?
+Whether you're launching a new product, redefining an existing brand, or transforming your entire digital presence, Prox partners with you to create growth that is both visible and commercial. Our strategy-first approach ensures your digital assets perform at the highest level.
+
+Contact Us:
+
+Website: https://proxdigitalagency.co.uk/
+
+Location: 85 Great Portland Street, London, W1W 7LT
+
+Phone: +44 207 0393 869
