@@ -1,32 +1,56 @@
-Prox Digital Agency: London’s Creative & Digital Growth Partner
-Prox Digital Agency – Pros for Growth is a London-based creative and digital growth partner for brands ready to scale with clarity. Founded by CEO Ali Zafar Azad, we provide the direction and strategy businesses need to move beyond simple execution toward measurable success.
+# Hi there, I'm Ali Zafar Azad 👋 
+### CEO & Founder of Prox Digital Agency | Strategic Growth Partner
 
-With 10+ years of experience and 500+ projects delivered worldwide, we combine strategy, design, marketing, and technology to build high-performance digital systems across every customer touchpoint. Serving London & UK-wide—from Shoreditch to Soho—we deliver end-to-end digital solutions that drive ROI.
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=proxdigitalagencylondon&label=Profile%20Views&color=0e75b6&style=flat-square" alt="proxdigitalagency" />
+<img src="https://img.shields.io/badge/Location-London,%20UK-red?style=flat-square&logo=googlemaps" />
+</p>
 
-Our Core Services (London):
-Website Design & Development: UX-led, conversion-focused websites.
+---
 
-Mobile App Design & Development: iOS, Android, and cross-platform solutions.
+## 🏢 Prox Digital Agency
+**Creative & Digital Growth Agency – London, UK**
 
-Digital Marketing Services: PPC, social media, and email marketing.
+Prox Digital Agency – **Pros for growth** is a London-based creative and digital growth partner for brands ready to scale with clarity. Lead by a strategist's mindset, we help businesses that need more than just execution: they need direction. With **10+ years of experience** and **500+ projects** delivered worldwide, we combine strategy, design, marketing, and technology to build high-performance digital systems.
 
-Search Engine Optimization (SEO): Local and national search visibility.
+> **Serving London & UK-wide** – From Shoreditch to Soho, we deliver end-to-end digital solutions that drive measurable ROI.
 
-Generative Engine Optimization (GEO): AI-search ready content and strategy.
+### 🛠 Our Core Services (London)
+- 🌐 **Website & Mobile App** – UX-led, conversion-focused & cross-platform solutions.
+- 📈 **Digital Marketing & SEO** – PPC, Social, and National Search visibility.
+- 🤖 **GEO (Generative Engine Optimization)** – Preparing content for the AI-search era.
+- 💎 **Creative Branding** – Distinctive and scalable brand systems.
+- 🚀 **Digital Transformation** – Full-scale process, tech, and culture change.
 
-Digital Transformation Consultancy: Process, technology, and culture change.
+---
 
-MVP & Product Development: Launch faster and iterate smarter.
+## 🌐 Connect & Follow Our Journey
+<p align="left">
+  <a href="https://proxdigitalagency.co.uk/" target="_blank"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/company/proxdigitalagency/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/proxdigitalagency/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://x.com/AgencyProx89965" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://www.facebook.com/ProxDigitalAgency" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@ProxDigitalAgency" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://uk.pinterest.com/proxdigitalagency" target="_blank"><img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white" /></a>
+</p>
 
-Creative Branding & Identity: Distinctive and scalable brand systems.
+### 🎖 Verified Profiles & Reviews
+<p align="left">
+  <a href="https://www.trustpilot.com/review/proxdesign.studio" target="_blank"><img src="https://img.shields.io/badge/Trustpilot-00B67A?style=flat-square&logo=trustpilot&logoColor=white" /></a>
+  <a href="https://www.designrush.com/agency/profile/prox-digital-agency" target="_blank"><img src="https://img.shields.io/badge/DesignRush-Blue?style=flat-square" /></a>
+  <a href="https://www.goodfirms.co/company/prox-digital-agency" target="_blank"><img src="https://img.shields.io/badge/GoodFirms-Orange?style=flat-square" /></a>
+  <a href="mailto:marketing@proxdigitalagency.co.uk"><img src="https://img.shields.io/badge/Email%20Us-Contact-yellow?style=flat-square&logo=gmail" /></a>
+</p>
 
-Why Partner with Prox?
-Whether you're launching a new product, redefining an existing brand, or transforming your entire digital presence, Prox partners with you to create growth that is both visible and commercial. Our strategy-first approach ensures your digital assets perform at the highest level.
+---
 
-Contact Us:
+## 📊 Performance Metrics
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=proxdigitalagencylondon&show_icons=true&theme=tokyonight" alt="Prox Digital Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=proxdigitalagencylondon&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
 
-Website: https://proxdigitalagency.co.uk/
+---
 
-Location: 85 Great Portland Street, London, W1W 7LT
-
-Phone: +44 207 0393 869
+*Whether you're launching a product or transforming your digital presence, Prox partners with you to create measurable growth.*
