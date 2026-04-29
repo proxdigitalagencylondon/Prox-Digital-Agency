@@ -1,5 +1,5 @@
-# Hi there, I'm Ali Zafar Azad 👋 
-### CEO & Founder of Prox Digital Agency | Strategic Growth Partner
+# Hi there👋 
+### Prox Digital Agency | Strategic Growth Partner
 
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=proxdigitalagencylondon&label=Profile%20Views&color=0e75b6&style=flat-square" alt="proxdigitalagency" />
