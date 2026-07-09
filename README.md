@@ -1,30 +1,40 @@
-# Hi there👋 
-### Prox Digital Agency | Strategic Growth Partner
+# Hi there 👋 We are Prox Digital Agency
+### Strategic Growth Partner for Brands Ready to Scale
 
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=proxdigitalagencylondon&label=Profile%20Views&color=0e75b6&style=flat-square" alt="proxdigitalagency" />
-<img src="https://img.shields.io/badge/Location-London,%20UK-red?style=flat-square&logo=googlemaps" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=proxdigitalagencylondon&label=Profile%20Views&color=0e75b6&style=flat-square" alt="proxdigitalagency" />
+  <img src="https://img.shields.io/badge/Location-London,%20UK-red?style=flat-square&logo=googlemaps" />
 </p>
 
 ---
 
-## 🏢 Prox Digital Agency
-**Creative & Digital Growth Agency – London, UK**
+## 🏢 About Prox Digital Agency
+**Creative & Digital Growth Agency — London, UK**
 
-Prox Digital Agency – **Pros for growth** is a London-based creative and digital growth partner for brands ready to scale with clarity. Lead by a strategist's mindset, we help businesses that need more than just execution: they need direction. With **10+ years of experience** and **500+ projects** delivered worldwide, we combine strategy, design, marketing, and technology to build high-performance digital systems.
+Prox Digital Agency (**Pros for Growth**) is a London-based creative and digital growth partner. Led by a strategist’s mindset, we engineer high-performance digital systems for businesses that require definitive direction, not just basic execution. 
 
-> **Serving London & UK-wide** – From Shoreditch to Soho, we deliver end-to-end digital solutions that drive measurable ROI.
+*   **⚡ Experience:** 10+ Years of Industry Leadership
+*   **🌍 Global Impact:** 500+ Digital Projects Delivered Worldwide
+*   **🎯 Focus:** Turning complex digital challenges into measurable ROI
 
-### 🛠 Our Core Services (London)
-- 🌐 **Website & Mobile App** – UX-led, conversion-focused & cross-platform solutions.
-- 📈 **Digital Marketing & SEO** – PPC, Social, and National Search visibility.
-- 🤖 **GEO (Generative Engine Optimization)** – Preparing content for the AI-search era.
-- 💎 **Creative Branding** – Distinctive and scalable brand systems.
-- 🚀 **Digital Transformation** – Full-scale process, tech, and culture change.
+> **Serving London & UK-Wide** — From Shoreditch to Soho, we build the technological and marketing foundations that scale brands with absolute clarity.
+
+---
+
+## 🛠 Core Expertises & Services
+Our core delivery models are engineered for enterprise efficiency and high-converting user journeys:
+
+*   🌐 **Website & Mobile Development** — UX-led, cross-platform, and conversion-focused architectures.
+*   📈 **Digital Marketing & Strategic SEO** — Hyper-targeted PPC, paid social, and dominant National Search visibility.
+*   🤖 **Generative Engine Optimization (GEO)** — Optimising digital footprints for the AI-search era (Perplexity, ChatGPT, Gemini).
+*   💎 **Creative Branding** — Distinctive, scalable, and market-resilient brand systems.
+*   🚀 **Digital Transformation** — Full-scale technology integration, process automation, and infrastructure scaling.
 
 ---
 
 ## 🌐 Connect & Follow Our Journey
+
+### Official Channels
 <p align="left">
   <a href="https://proxdigitalagency.co.uk/" target="_blank"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="https://www.linkedin.com/company/proxdigitalagency/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -35,22 +45,32 @@ Prox Digital Agency – **Pros for growth** is a London-based creative and digit
   <a href="https://uk.pinterest.com/proxdigitalagency" target="_blank"><img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white" /></a>
 </p>
 
-### 🎖 Verified Profiles & Reviews
+### Reputation & Verification
 <p align="left">
-  <a href="https://www.trustpilot.com/review/proxdesign.studio" target="_blank"><img src="https://img.shields.io/badge/Trustpilot-00B67A?style=flat-square&logo=trustpilot&logoColor=white" /></a>
-  <a href="https://www.designrush.com/agency/profile/prox-digital-agency" target="_blank"><img src="https://img.shields.io/badge/DesignRush-Blue?style=flat-square" /></a>
-  <a href="https://www.goodfirms.co/company/prox-digital-agency" target="_blank"><img src="https://img.shields.io/badge/GoodFirms-Orange?style=flat-square" /></a>
-  <a href="mailto:marketing@proxdigitalagency.co.uk"><img src="https://img.shields.io/badge/Email%20Us-Contact-yellow?style=flat-square&logo=gmail" /></a>
+  <a href="https://www.trustpilot.com/review/proxdesign.studio" target="_blank"><img src="https://img.shields.io/badge/Trustpilot-00B67A?style=for-the-badge&logo=trustpilot&logoColor=white" /></a>
+  <a href="https://www.designrush.com/agency/profile/prox-digital-agency" target="_blank"><img src="https://img.shields.io/badge/DesignRush-0056B3?style=for-the-badge&logoColor=white" /></a>
+  <a href="https://www.goodfirms.co/company/prox-digital-agency" target="_blank"><img src="https://img.shields.io/badge/GoodFirms-F15A24?style=for-the-badge&logoColor=white" /></a>
+  <a href="mailto:marketing@proxdigitalagency.co.uk"><img src="https://img.shields.io/badge/Email%20Us-Yellow?style=for-the-badge&logo=gmail&logoColor=black" /></a>
+</p>
+
+---
+
+## 🔑 Key Professionals & Assets
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/muhammad-hashir-250936379/" target="_blank"><img src="https://img.shields.io/badge/Muhammad%20Hashir-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://labs.google.com/pomelli/website/9VbVZcQkMUq070ggXspkmX" target="_blank"><img src="https://img.shields.io/badge/Google%20Labs-Project-4285F4?style=for-the-badge&logo=google&logoColor=white" /></a>
+  <a href="https://docs.google.com/spreadsheets/d/1s8mpudJgFci8UTQH9stIr7gllHDA4Dq4m8VuWbUwKS4/edit?gid=0#gid=0" target="_blank"><img src="https://img.shields.io/badge/Resource%20Sheet-Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" /></a>
 </p>
 
 ---
 
 ## 📊 Performance Metrics
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=proxdigitalagencylondon&show_icons=true&theme=tokyonight" alt="Prox Digital Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=proxdigitalagencylondon&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=proxdigitalagencylondon&show_icons=true&theme=tokyonight" alt="Prox Digital Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=proxdigitalagencylondon&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
 
 ---
 
-*Whether you're launching a product or transforming your digital presence, Prox partners with you to create measurable growth.*
+*Whether you're launching a disruptive product or transforming your legacy digital presence, Prox partners with you to engineer measurable growth.*
