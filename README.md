@@ -1,76 +1,109 @@
-# Hi there 👋 We are Prox Digital Agency
-### Strategic Growth Partner for Brands Ready to Scale
+markdown
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude-AI-6C63FF?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Frontend-Design-FF6B6B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Version-1.0.0-00D2FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/License-MIT-FFD700?style=for-the-badge" />
+</p>
+
+<h1 align="center">🚀 Claude Frontend Design Skill</h1>
+<h3 align="center">✨ Transform Claude AI into a Master Frontend Designer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=proxdigitalagencylondon&label=Profile%20Views&color=0e75b6&style=flat-square" alt="proxdigitalagency" />
-  <img src="https://img.shields.io/badge/Location-London,%20UK-red?style=flat-square&logo=googlemaps" />
+  <a href="#-features">🌟 Features</a> •
+  <a href="#-quick-start">⚡ Quick Start</a> •
+  <a href="#-examples">🎯 Examples</a> •
+  <a href="#-documentation">📚 Docs</a>
 </p>
 
 ---
 
-## 🏢 About Prox Digital Agency
-**Creative & Digital Growth Agency — London, UK**
+## 🎬 What is This?
 
-Prox Digital Agency (**Pros for Growth**) is a London-based creative and digital growth partner. Led by a strategist’s mindset, we engineer high-performance digital systems for businesses that require definitive direction, not just basic execution. 
+> **Claude Frontend Design Skill** is a powerful skill that transforms **Claude AI** into a world-class frontend designer capable of creating **stunning, futuristic, and production-ready** web interfaces.
 
-*   **⚡ Experience:** 10+ Years of Industry Leadership
-*   **🌍 Global Impact:** 500+ Digital Projects Delivered Worldwide
-*   **🎯 Focus:** Turning complex digital challenges into measurable ROI
+### 🎯 Why Use This Skill?
 
-> **Serving London & UK-Wide** — From Shoreditch to Soho, we build the technological and marketing foundations that scale brands with absolute clarity.
-
----
-
-## 🛠 Core Expertises & Services
-Our core delivery models are engineered for enterprise efficiency and high-converting user journeys:
-
-*   🌐 **Website & Mobile Development** — UX-led, cross-platform, and conversion-focused architectures.
-*   📈 **Digital Marketing & Strategic SEO** — Hyper-targeted PPC, paid social, and dominant National Search visibility.
-*   🤖 **Generative Engine Optimization (GEO)** — Optimising digital footprints for the AI-search era (Perplexity, ChatGPT, Gemini).
-*   💎 **Creative Branding** — Distinctive, scalable, and market-resilient brand systems.
-*   🚀 **Digital Transformation** — Full-scale technology integration, process automation, and infrastructure scaling.
+| 🎨 **Futuristic Design** | ⚡ **Advanced Animations** | 📱 **Fully Responsive** |
+|--------------------------|---------------------------|------------------------|
+| Glassmorphism | Framer Motion | Mobile First |
+| Neumorphism | GSAP Animations | Tablet Optimized |
+| Cyberpunk Style | Three.js 3D | Desktop Experience |
 
 ---
 
-## 🌐 Connect & Follow Our Journey
+## 🛠️ Tech Stack
 
-### Official Channels
-<p align="left">
-  <a href="https://proxdigitalagency.co.uk/" target="_blank"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/company/proxdigitalagency/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/proxdigitalagency/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://x.com/AgencyProx89965" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://www.facebook.com/ProxDigitalAgency" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="https://www.youtube.com/@ProxDigitalAgency" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="https://uk.pinterest.com/proxdigitalagency" target="_blank"><img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white" /></a>
-</p>
-
-### Reputation & Verification
-<p align="left">
-  <a href="https://www.trustpilot.com/review/proxdesign.studio" target="_blank"><img src="https://img.shields.io/badge/Trustpilot-00B67A?style=for-the-badge&logo=trustpilot&logoColor=white" /></a>
-  <a href="https://www.designrush.com/agency/profile/prox-digital-agency" target="_blank"><img src="https://img.shields.io/badge/DesignRush-0056B3?style=for-the-badge&logoColor=white" /></a>
-  <a href="https://www.goodfirms.co/company/prox-digital-agency" target="_blank"><img src="https://img.shields.io/badge/GoodFirms-F15A24?style=for-the-badge&logoColor=white" /></a>
-  <a href="mailto:marketing@proxdigitalagency.co.uk"><img src="https://img.shields.io/badge/Email%20Us-Yellow?style=for-the-badge&logo=gmail&logoColor=black" /></a>
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />
 </p>
 
 ---
 
-## 🔑 Key Professionals & Assets
+## 🎨 Code Examples
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/muhammad-hashir-250936379/" target="_blank"><img src="https://img.shields.io/badge/Muhammad%20Hashir-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://labs.google.com/pomelli/website/9VbVZcQkMUq070ggXspkmX" target="_blank"><img src="https://img.shields.io/badge/Google%20Labs-Project-4285F4?style=for-the-badge&logo=google&logoColor=white" /></a>
-  <a href="https://docs.google.com/spreadsheets/d/1s8mpudJgFci8UTQH9stIr7gllHDA4Dq4m8VuWbUwKS4/edit?gid=0#gid=0" target="_blank"><img src="https://img.shields.io/badge/Resource%20Sheet-Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" /></a>
-</p>
+### Glassmorphism Card
+```jsx
+const GlassCard = ({ children }) => {
+  return (
+    <div className="bg-white/10 backdrop-blur-lg rounded-2xl p-8 
+                    border border-white/20 shadow-2xl 
+                    hover:scale-105 transition-all duration-300">
+      {children}
+    </div>
+  );
+};
+Animated Button
+jsx
+import { motion } from 'framer-motion';
 
----
+const GlowingButton = ({ text }) => {
+  return (
+    <motion.button
+      whileHover={{ scale: 1.05 }}
+      whileTap={{ scale: 0.95 }}
+      className="px-8 py-4 bg-gradient-to-r from-purple-500 to-blue-500 
+                 rounded-full text-white font-bold shadow-lg
+                 hover:shadow-purple-500/50 transition-all duration-300"
+    >
+      {text}
+    </motion.button>
+  );
+};
+🚀 Quick Start
+bash
+# Clone the repository
+git clone https://github.com/YOUR_USERNAME/claude-frontend-design-skill.git
+cd claude-frontend-design-skill
 
-## 📊 Performance Metrics
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=proxdigitalagencylondon&show_icons=true&theme=tokyonight" alt="Prox Digital Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=proxdigitalagencylondon&layout=compact&theme=tokyonight" alt="Top Langs" />
-</p>
+# Install dependencies
+npm install
 
----
+# Start development server
+npm run dev
+📂 Project Structure
+text
+claude-frontend-design-skill/
+├── 📄 README.md          # Documentation
+├── 📄 skill.md           # Main skill file
+├── 📄 LICENSE            # MIT License
+└── 📁 examples/          # Example projects
+📚 Documentation
+Full documentation is available in the skill.md file.
 
-*Whether you're launching a disruptive product or transforming your legacy digital presence, Prox partners with you to engineer measurable growth.*
+🤝 Contributing
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+📄 License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+👨‍💻 Author
+Your Name
+
+<p align="center"> <a href="https://github.com/YOUR_USERNAME"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://linkedin.com/in/YOUR_USERNAME"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p>
+<p align="center"> <b>Made with ❤️ by Your Name</b> <br /> <sub>⚡ "Design the future, today!" ⚡</sub> </p> ```
