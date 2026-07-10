@@ -1,25 +1,27 @@
-# 🚀 Claude Frontend Design Skill
+# 🚀 Prox Digital Agency - Claude Frontend Design Skill
 
-## ✨ Transform Claude AI into a Master Frontend Designer
+[![GitHub](https://img.shields.io/badge/GitHub-Prox_Digital_Agency-purple)](https://github.com/proxdigitalagencylondon)
+[![License](https://img.shields.io/badge/License-MIT-blue)](./LICENSE)
+[![Claude Skill](https://img.shields.io/badge/Claude_Skill-v1.0.0-6C63FF)](./skill.md)
 
-### 🎬 What is This?
-**Claude Frontend Design Skill** transforms Claude AI into a world-class frontend designer.
+---
 
-### 🛠️ Tech Stack
-- React 18+ | Next.js 14
-- Tailwind CSS | Framer Motion
-- Three.js | TypeScript
+## 🌟 About This Skill
 
-### 🎨 Features
-- Glassmorphism Design
-- Advanced Animations
-- 3D Effects
-- Fully Responsive
+This skill transforms **Claude** into a **Master Frontend Designer** capable of creating stunning, futuristic web interfaces with premium user experiences.
 
-### 🚀 Quick Start
-```bash
-git clone https://github.com/proxdigitalagencylondon/Prox-Digital-Agency.git
-cd Prox-Digital-Agency
-npm install
-npm run dev
-│  Made with ❤️ by Prox Digital Agency                │
+---
+
+## 🎯 What's Included
+
+| Feature | Description |
+|---------|-------------|
+| 🎨 **Design System** | Complete color palette, typography, and design tokens |
+| 🧩 **UI Components** | Glass cards, gradient buttons, hero sections |
+| 🚀 **Templates** | Landing pages, dashboards, portfolios |
+| 📱 **Responsive** | Mobile-first, fully responsive designs |
+| ⚡ **Animations** | Smooth transitions and micro-interactions |
+
+---
+
+## 📁 Project Structure
