@@ -1,0 +1,29 @@
+futuristic-project/
+├── src/
+│   ├── components/
+│   │   ├── ui/
+│   │   │   ├── GlassCard.jsx
+│   │   │   ├── GradientButton.jsx
+│   │   │   └── AnimatedSection.jsx
+│   │   ├── layout/
+│   │   │   ├── Navbar.jsx
+│   │   │   └── Footer.jsx
+│   │   └── animations/
+│   │       ├── ParticleBackground.jsx
+│   │       └── ScrollReveal.jsx
+│   ├── styles/
+│   │   ├── globals.css
+│   │   └── animations.css
+│   ├── hooks/
+│   │   ├── useScrollAnimation.js
+│   │   └── useParallax.js
+│   └── utils/
+│       ├── designTokens.js
+│       └── animations.js
+├── public/
+│   └── assets/
+│       ├── images/
+│       └── fonts/
+├── package.json
+├── tailwind.config.js
+└── next.config.js
