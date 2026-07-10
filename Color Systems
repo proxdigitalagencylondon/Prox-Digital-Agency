@@ -1,0 +1,19 @@
+/* Futuristic Color Palette */
+:root {
+  /* Primary - Electric Blue to Purple gradient */
+  --primary-start: #6C63FF;
+  --primary-end: #3F3D9E;
+  
+  /* Secondary - Cyber Pink to Neon Orange */
+  --secondary-start: #FF6B6B;
+  --secondary-end: #FF8E53;
+  
+  /* Accent - Teal to Cyan */
+  --accent-start: #00D2FF;
+  --accent-end: #3A7BD5;
+  
+  /* Background - Dark Space Theme */
+  --bg-primary: #0A0A0F;
+  --bg-secondary: #1A1A2E;
+  --bg-card: rgba(255,255,255,0.05);
+}
