@@ -1,0 +1,11 @@
+/* Futuristic Typography */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+.futuristic-text {
+  font-family: 'Inter', sans-serif;
+  background: linear-gradient(135deg, #6C63FF, #00D2FF);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-weight: 800;
+  letter-spacing: -0.02em;
+}
