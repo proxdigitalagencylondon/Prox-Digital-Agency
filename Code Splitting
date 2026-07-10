@@ -1,0 +1,4 @@
+// Lazy load components for better performance
+const FuturisticComponent = React.lazy(() => 
+  import('./components/FuturisticComponent')
+);
