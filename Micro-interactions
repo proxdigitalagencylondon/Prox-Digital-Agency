@@ -1,0 +1,13 @@
+// Smooth Scroll with Parallax
+import { useScroll, useTransform } from 'framer-motion';
+
+const ParallaxSection = () => {
+  const { scrollYProgress } = useScroll();
+  const y = useTransform(scrollYProgress, [0, 1], [0, -200]);
+  
+  return (
+    <motion.div style={{ y }}>
+      {/* Content with parallax effect */}
+    </motion.div>
+  );
+};
