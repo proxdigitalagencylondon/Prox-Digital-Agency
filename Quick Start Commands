@@ -1,0 +1,14 @@
+# Create new project
+npm create vite@latest futuristic-app -- --template react-ts
+cd futuristic-app
+
+# Install essential dependencies
+npm install framer-motion @react-three/fiber @react-three/drei
+npm install tailwindcss @tailwindcss/forms @tailwindcss/typography
+npm install react-icons lottie-react
+
+# Setup Tailwind
+npx tailwindcss init -p
+
+# Start development
+npm run dev
